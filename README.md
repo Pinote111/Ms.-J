@@ -1,4 +1,4 @@
-Juliana Creative Hub showcases my web design projects from the course, reflecting my growth as a graphic design student. Here, creativity meets functionality through UI/UX, layout planning, and interactive front-end design.
+This Creative Hub showcases my web design projects from the course, reflecting my growth as a graphic design student. Here, creativity meets functionality through UI/UX, layout planning, and interactive front-end design.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/julianapinote) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/juliana.pinote) 
